@@ -16,4 +16,4 @@ Supports document reading, session memory, and interactive chat—all running lo
 
 ```bash
 git clone https://github.com/tainwala-ayush/ai-chat-assistant.git
-cd gpt4all-chat-assistant
+cd ai-chat-assistant
